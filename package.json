@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Dipeshgoyal44/socketapp#readme",
   "dependencies": {
     "bad-words": "^3.0.3",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "lodash": "^4.17.19",
     "socket.io": "^2.3.0"
   },
